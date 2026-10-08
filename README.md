@@ -1,3 +1,18 @@
+> [!NOTE]
+> **9base status: Preserved.** Lifecycle: archived reference; not actively maintained by 9base.
+>
+> Space Cadet Pinball reverse-engineering and port source snapshot, retained from [alula/SpaceCadetPinball](https://github.com/alula/SpaceCadetPinball). The source project and its original contributors retain their attribution; this repository is a preserved fork.
+>
+> The immediate parent is [alula/SpaceCadetPinball](https://github.com/alula/SpaceCadetPinball); the fork-network source is [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball). Credit the upstream reverse-engineering and port contributors. The three audited branches established no 9base-specific port development.
+>
+> Retained here for reference and preservation. The original reason for retaining this copy is undocumented; no larger 9base project family was established.
+>
+> Archival context reconstructed on 8 October 2026 from the repository, branch history and GitHub fork metadata; it does not imply new technical work.
+
+---
+
+<!-- Original upstream README follows unchanged. -->
+
 # SpaceCadetPinball
 **Summary:** Reverse engineering of `3D Pinball for Windows – Space Cadet`, a game bundled with Windows.
 
